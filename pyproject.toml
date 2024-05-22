@@ -1,0 +1,14 @@
+[project]
+name = "comfy_syrian_falcon_nodes"
+description = "Nodes:Prompt editing, Word as Image"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/taabata/Comfy_Syrian_Falcon_Nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfy_Syrian_Falcon_Nodes"
+Icon = ""
